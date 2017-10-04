@@ -42,8 +42,9 @@ The page will show you how to install Apple Xcode which is a perquisite for inst
 
 Make the command "python" always open "python3.5" (the default on Mac is ptyhon2.6)
 Open Terminal and run:
-  echo -e '\nalias python="/opt/homebrew/bin/python3.5"' >> ~/.bash_profile
-
+```
+echo -e '\nalias python="/opt/homebrew/bin/python3.5"' >> ~/.bash_profile
+```
 
 ## Prerequisites: Editor Setup
 (10 minutes to get familiar and Setup)
