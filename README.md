@@ -17,7 +17,7 @@ Electronic copy https://github.com/CWade3051/Py/blob/master/Absolute%20Book/Pyth
 
 
 ## Prerequisites: Skills
-(3 minutes to lear how to use the Terminal app)
+(3 minutes to learn how to use the Terminal app)
 
 You need to know how to run shell commands:
 1. Copy the command from the manual. Use copy-and-paste (not typing) for accuracy.
