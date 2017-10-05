@@ -51,7 +51,6 @@ echo -e '\nalias python="/opt/homebrew/bin/python3.5"' >> ~/.bash_profile
 
 Install Atom's "script-runner" package so we can run Python directly from the text editor
 
-Follow [this video tutorial](https://www.youtube.com/watch?v=QyVnWjZzGVY
+1. Follow [this video tutorial](https://www.youtube.com/watch?v=QyVnWjZzGVY
 ), yet instead of [**script** by rgbkrk](https://atom.io/packages/script) look for [**script-runner** by ioquatix](https://atom.io/packages/script-runner) 
-
-In the same way as above, install [MagicPython by MagicStack](https://atom.io/packages/MagicPython) - it's a programing language syntax highlighter - uses color to show various parts of the code
+2. In the same way as above, install [MagicPython by MagicStack](https://atom.io/packages/MagicPython) - it's a programing language syntax highlighter - uses color to show various parts of the code
