@@ -58,6 +58,8 @@ Install Atom's "script-runner" package so we can run Python directly from the te
 
 # Chapter 1
 
+(30 minutes)
+
 Skip the "Setting Up Python" sections. They are already covered in Prerequisites.
 
 When you get to the "Introducing IDLE" section,
@@ -68,3 +70,13 @@ When you get to the "Introducing IDLE" section,
     2. Write the program
     3. At the very top of the program add this line (copy-and-paste): `#!/opt/homebrew/bin/python3.5`
     4. Press Ctrl-X to run the program
+
+
+# Chapter 2
+
+(2+ hours)
+
+For now when you need to "Save" the `.py` files (your program), just save it to your Desktop. In later Chapters will learn how to save code to github.
+
+1. When you get to typing the ASCII art "GAME OVER" on page 17, you'd probably want to look ahead and read about ASCII art on page 21. When typing up the code, you can save some time and add style by doing copy-and-paste of the ASCII art from http://patorjk.com/software/taag/#p=display&f=Star%20Wars&t=Game%20AOver yet I encourage you to to "draw" some of your own ASCII art. This helps develop comfort with editing raw text (which is what program is) and muscle memory to better handle the text editor.
+2. When you get to "Sounding the System Bell" section open your Terminal and type "python" instead of using Atom to run the code. Make sure on your Mac the sound is On.
