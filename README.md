@@ -13,7 +13,7 @@ Open your browser and go to https://github.com/alevchuk/programming-lessions
 
 We'll be following the book "Python Programming for the Absolute Beginner, 3rd Edition"
 
-Electronic copy https://github.com/CWade3051/Py/blob/master/Absolute%20Book/Python%20Programming%20for%20the%20Absolute%20Beginner%2C%203rd%20Edition/Python%20Programming%20for%20the%20Absolute%20Beginner%2C%203rd%20Edition.pdf
+[Electronic copy: https://github.com/CWade3051/Py/...]( https://github.com/CWade3051/Py/blob/master/Absolute%20Book/Python%20Programming%20for%20the%20Absolute%20Beginner%2C%203rd%20Edition/Python%20Programming%20for%20the%20Absolute%20Beginner%2C%203rd%20Edition.pdf)
 
 
 ## Prerequisites: Skills
@@ -51,7 +51,20 @@ echo -e '\nalias python="/opt/homebrew/bin/python3.5"' >> ~/.bash_profile
 
 Install Atom's "script-runner" package so we can run Python directly from the text editor
 
-Follow [this video tutorial](https://www.youtube.com/watch?v=QyVnWjZzGVY
-), yet instead of [**script** by rgbkrk](https://atom.io/packages/script) look for [**script-runner** by ioquatix](https://atom.io/packages/script-runner) 
+1. Follow [this video tutorial](https://www.youtube.com/watch?v=QyVnWjZzGVY
+), yet instead of [**script** by rgbkrk](https://atom.io/packages/script) look for [**script-runner** by ioquatix](https://atom.io/packages/script-runner)
+2. In the same way as above, install [MagicPython by MagicStack](https://atom.io/packages/MagicPython) - it's a programing language syntax highlighter - uses color to show various parts of the code
 
-In the same way as above, install [MagicPython by MagicStack](https://atom.io/packages/MagicPython) - it's a programing language syntax highlighter - uses color to show various parts of the code
+
+# Chapter 1
+
+Skip the "Setting Up Python" sections. They are already covered in Prerequisites.
+
+When you get to the "Introducing IDLE" section,
+
+1. Under "Writing your first program" just open your Mac Terminal, type "python" and hit Enter.
+2. Under "Writing your first program (again)"
+  1. Open Atom
+  2. Write the program
+  3. At the very top of the program add this line (copy-and-paste): `#!/opt/homebrew/bin/python3.5`
+  4. Press Ctrl-X to run the program
