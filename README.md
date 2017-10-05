@@ -64,7 +64,7 @@ When you get to the "Introducing IDLE" section,
 
 1. Under "Writing your first program" just open your Mac Terminal, type "python" and hit Enter.
 2. Under "Writing your first program (again)"
-  1. Open Atom
-  2. Write the program
-  3. At the very top of the program add this line (copy-and-paste): `#!/opt/homebrew/bin/python3.5`
-  4. Press Ctrl-X to run the program
+    1. Open Atom
+    2. Write the program
+    3. At the very top of the program add this line (copy-and-paste): `#!/opt/homebrew/bin/python3.5`
+    4. Press Ctrl-X to run the program
