@@ -1,9 +1,9 @@
 # Prerequisites
 
 ## Prerequisites: Hardware
-(1 minute open your laptop and login to github)
+(1 minute to open your laptop and login to github)
 
-This tutorial assumes your using a Mac computer (laptop or desktop)
+This tutorial assumes you're using a Mac computer (laptop or desktop)
 
 Open your browser and go to https://github.com/alevchuk/programming-lessions
 
@@ -23,7 +23,7 @@ You need to know how to run shell commands:
 1. Copy the command from the manual. Use copy-and-paste (not typing) for accuracy.
 2. Open the Terminal (fastest way to find the Terminal on Mac is to type "ter" in the Spotlight Search - which is the magnifying glass in the top right)
 3. Paste the command and hit Enter
-4. Once Terminal is open, right-click on it's icon in your Mac's Dock and select Options -> Keep in Doc (that way you don't have to look for the Terminal every time you need it)
+4. Once Terminal is open, right-click on its icon in your Mac's Dock and select Options -> Keep in Dock (that way you don't have to look for the Terminal every time you need it)
 
 
 ## Prerequisites: Software Tools
@@ -33,14 +33,14 @@ Install the text editor:
 1. Got to https://atom.io/
 2. Click Download for Mac
 3. Go through the installation
-4. Once Atom is open, right-click on it's icon in your Mac's Dock and select Options -> Keep in Doc (that way you don't have to look for the Text Editor every time you need it)
+4. Once Atom is open, right-click on its icon in your Mac's Dock and select Options -> Keep in Dock (that way you don't have to look for the Text Editor every time you need it)
 
 While text editor installs, install Python 3 (also Xcode and Brew)
 https://www.google.com/search?q=install+python+3+mac
 (follow the "Doing it Right" section of the webpage "Installing Python 3 on Mac OS X: The Hitchhiker's Guide to Python")
 The page will show you how to install Apple Xcode which is a perquisite for installing Python 3 via the Brew package manager.
 
-Make the command "python" always open "python3.5" (the default on Mac is ptyhon2.6)
+Make the command "python" always open "python3.5" (the default on Mac is python2.6)
 Open Terminal and run:
 ```
 echo -e '\nalias python="/opt/homebrew/bin/python3.5"' >> ~/.bash_profile
@@ -76,7 +76,7 @@ When you get to the "Introducing IDLE" section,
 
 (2+ hours)
 
-For now when you need to "Save" the `.py` files (your program), just save it to your Desktop. In later Chapters will learn how to save code to github.
+When you need to "Save" the `.py` files (your program), just save it to your Desktop for now. In later chapters you will learn how to save code to github.
 
-1. When you get to typing the ASCII art "GAME OVER" on page 17, you'd probably want to look ahead and read about ASCII art on page 21. When typing up the code, you give it more zest by doing a copy-and-paste of the ASCII art from http://patorjk.com/software/taag/#p=display&f=Star%20Wars&t=Game%20AOver yet I encourage you to to "draw" some of your own ASCII art. This helps develop comfort with editing raw text (which is what program is) and muscle memory to better handle the text editor.
-2. When you get to "Sounding the System Bell" section open your Terminal and type "python" instead of using Atom to run the code. Make sure on your Mac the sound is On.
+1. When you get to typing the ASCII art "GAME OVER" on page 17, you'd probably want to look ahead and read about ASCII art on page 21. When typing up the code, you can give it more zest by doing a copy-and-paste of the ASCII art from http://patorjk.com/software/taag/#p=display&f=Star%20Wars&t=Game%20AOver yet I encourage you to to "draw" some of your own ASCII art. This helps develop comfort with editing raw text (which is what programming is) and muscle memory to better handle the text editor.
+2. When you get to "Sounding the System Bell" section, open your Terminal and type "python" instead of using Atom to run the code. Make sure the sound is "On" on your Mac.
