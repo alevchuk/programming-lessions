@@ -5,9 +5,6 @@
 
 This tutorial assumes you're using a Mac computer (laptop or desktop)
 
-Open your browser and go to https://github.com/alevchuk/programming-lessions
-
-
 ## Book
 (1 minute to open the book)
 
