@@ -18,7 +18,7 @@ We'll be following the book "Python Programming for the Absolute Beginner, 3rd E
 
 ## Prerequisites: Skills
 
-### Running commands
+### Running shell commands
 (3 minutes to learn how to use the Terminal app)
 
 You need to know how to run shell commands:
