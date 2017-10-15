@@ -49,7 +49,7 @@ First, make /usr/local/bin you default location for launching system utilities s
 echo -e '\nexport PATH=/usr/local/bin:/usr/local/sbin:$PATH' >> ~/.bash_profile
 ```
 
-Now fforllow the installing Python 3 manual 
+Now follow "Installing Python 3" manual 
 http://docs.python-guide.org/en/latest/starting/install3/osx/
 
 (follow the "Doing it Right" section of the webpage "Installing Python 3 on Mac OS X: The Hitchhiker's Guide to Python")
