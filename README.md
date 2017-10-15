@@ -1,7 +1,7 @@
 # Prerequisites
 
 ## Hardware
-(1 minute to open your laptop and login to github)
+(1 minute to open your laptop and login to github https://github.com/alevchuk/programming-lessions)
 
 This tutorial assumes you're using a Mac computer (laptop or desktop)
 
