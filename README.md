@@ -1,6 +1,6 @@
 # Prerequisites
 
-Important: you must first complete [Prerequisites](https://github.com/alevchuk/programming-lessions/blob/master/README.md) before starting this course.
+Important: you must first complete [Prerequisites](https://github.com/alevchuk/programming-lessions/blob/master/PREREQUISITES.md) before starting this course.
 
 
 # Chapter 1
