@@ -43,14 +43,22 @@ Install the text editor:
 4. Once Atom is open, right-click on its icon in your Mac's Dock and select Options -> Keep in Dock (that way you don't have to look for the Text Editor every time you need it)
 
 While text editor installs, install Python 3 (also Xcode and Brew)
-https://www.google.com/search?q=install+python+3+mac
+
+First, make /usr/local/bin you default location for launching system utilities such as Python
+```
+echo -e '\nexport PATH=/usr/local/bin:/usr/local/sbin:$PATH' >> ~/.bash_profile
+```
+
+Now fforllow the installing Python 3 manual 
+http://docs.python-guide.org/en/latest/starting/install3/osx/
+
 (follow the "Doing it Right" section of the webpage "Installing Python 3 on Mac OS X: The Hitchhiker's Guide to Python")
 The page will show you how to install Apple Xcode which is a perquisite for installing Python 3 via the Brew package manager.
 
 Make the command "python" always open "python3.5" (the default on Mac is python2.6)
 Open Terminal and run:
 ```
-echo -e '\nalias python="/opt/homebrew/bin/python3.5"' >> ~/.bash_profile
+echo -e '\nalias python="/usr/local/bin/python3.6"' >> ~/.bash_profile
 ```
 
 ## Editor Setup
