@@ -16,7 +16,7 @@ When you get to the "Introducing IDLE" section,
     1. Open Atom 
     2. The screenshot in the Book is not relevant because we're using Atom - in Atom there will be no "Run" button. Instead will use a keyboard shortcut Ctrl-x  
     3. Write the program
-    4. At the very top of the program add this line (copy-and-paste): `#!/opt/homebrew/bin/python3.5`
+    4. At the very top of the program add this line (copy-and-paste): `#!/usr/local/bin/python3.6`
     5. Press Ctrl-x to run the program [instead of the "Run" button as described in the book] 
 
 
