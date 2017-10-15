@@ -17,9 +17,12 @@ We'll be following the book "Python Programming for the Absolute Beginner, 3rd E
 
 
 ## Prerequisites: Skills
+
+### Running commands
 (3 minutes to learn how to use the Terminal app)
 
 You need to know how to run shell commands:
+1. In manuals and online you'll sometimes you'll see Shell commands that you want to run for things like installing a new version of python. Let take a toy example of a command. It looks like this: `echo Hello World`
 1. Copy the command from the manual. Use copy-and-paste (not typing) for accuracy.
 2. Open the Terminal (fastest way to find the Terminal on Mac is to type "ter" in the Spotlight Search - which is the magnifying glass in the top right)
 3. Paste the command and hit Enter
