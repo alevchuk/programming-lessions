@@ -1,5 +1,13 @@
 # Prerequisites
-(1 minute to open your laptop and login to github https://github.com/alevchuk/programming-lessions)
+
+## GitHub
+(1 minute to open your laptop and go to github)
+https://github.com/alevchuk/programming-lessions
+
+## GitHub Account
+(5 minutes to create a github account)
+
+Create an accound so you can make changes to the documentation.
 
 ## Hardware
 This tutorial assumes you're using a Mac computer (laptop or desktop)
