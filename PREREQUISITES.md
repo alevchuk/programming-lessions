@@ -44,7 +44,8 @@ Install the text editor:
 
 While text editor installs, install Python 3 (also Xcode and Brew)
 
-First, make /usr/local/bin you default location for launching system utilities such as Python
+First, 
+/usr/local/bin you default location for launching system utilities such as Python
 ```
 echo -e '\nexport PATH=/usr/local/bin:/usr/local/sbin:$PATH' >> ~/.bash_profile
 ```
@@ -55,13 +56,17 @@ http://docs.python-guide.org/en/latest/starting/install3/osx/
 (follow the "Doing it Right" section of the webpage "Installing Python 3 on Mac OS X: The Hitchhiker's Guide to Python")
 The page will show you how to install Apple Xcode which is a perquisite for installing Python 3 via the Brew package manager.
 
-Make the command "python" always open "python3.5" (the default on Mac is python2.6)
+
+### python3 issues
+#### Shell command "python" opens the old version  (the default on Mac is python2.6)
+
+To fix that, make the command "python" always open "python3.6" 
 Open Terminal and run:
 ```
 echo -e '\nalias python="/usr/local/bin/python3.6"' >> ~/.bash_profile
 ```
 
-### python3 issues
+#### Up or Down Arrow keys don't work in interactive python
 Sometimes history does not work in python interactive evironment (when I press the Up or Down Arrow keys in the Python interpreter I get ^[[A or ^[[B instead of history)
 
 To fix that, install ruby (which gets you the readline dependency) and then re-install python, like this:
