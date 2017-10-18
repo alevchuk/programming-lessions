@@ -68,7 +68,7 @@ echo -e '\nalias python="/usr/local/bin/python3.6"' >> ~/.bash_profile
 #### Up or Down Arrow keys don't work in interactive python
 Sometimes history does not work in python interactive evironment (when I press the Up or Down Arrow keys in the Python interpreter I get ^[[A or ^[[B instead of history)
 
-To fix that, install ruby (which gets you the readline dependency) and then re-install python, like this:
+To fix that, install ruby (which gets you the needed readline dependency) and then re-install python, like this:
 ```
 brew update
 brew install ruby
