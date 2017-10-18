@@ -52,9 +52,8 @@ echo -e '\nexport PATH=/usr/local/bin:/usr/local/sbin:$PATH' >> ~/.bash_profile
 
 Now follow "Installing Python 3" manual 
 http://docs.python-guide.org/en/latest/starting/install3/osx/
-
-(follow the "Doing it Right" section of the webpage "Installing Python 3 on Mac OS X: The Hitchhiker's Guide to Python")
-The page will show you how to install Apple Xcode which is a perquisite for installing Python 3 via the Brew package manager.
+* Follow the "Doing it Right" section of the webpage "Installing Python 3 on Mac OS X: The Hitchhiker's Guide to Python"
+* The page will show you how to install Apple Xcode which is a perquisite for installing Python 3 via the Brew package manager
 
 
 ### python3 issues
