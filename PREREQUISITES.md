@@ -61,6 +61,17 @@ Open Terminal and run:
 echo -e '\nalias python="/usr/local/bin/python3.6"' >> ~/.bash_profile
 ```
 
+### python3 issues
+Sometimes history does not work in python interactive evironment (when I press the Up or Down Arrow keys in the Python interpreter I get ^[[A or ^[[B instead of history)
+
+To fix that, install ruby (which gets you the readline dependency) and then re-install python, like this:
+```
+brew update
+brew install ruby
+brew install python3
+brew link --overwrite python3
+```
+
 ## Editor Setup
 (10 minutes to get familiar and Setup)
 
