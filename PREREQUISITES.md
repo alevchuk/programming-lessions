@@ -56,7 +56,7 @@ http://docs.python-guide.org/en/latest/starting/install3/osx/
 * The page will show you how to install Apple Xcode which is a perquisite for installing Python 3 via the Brew package manager
 
 
-### python3 issues
+### Fix python3 issues
 #### Shell command "python" opens the old version  (the default on Mac is python2.6)
 
 To fix that, make the command "python" always open "python3.6" 
